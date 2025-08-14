@@ -1,4 +1,4 @@
-const BASE_URL ='http://localhost:4000'
+const BASE_URL ='https://studynotion-1s3d.onrender.com'
 
 
 // AUTH ENDPOINTS
